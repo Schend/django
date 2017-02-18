@@ -1,0 +1,10 @@
+<html>
+    <style type="text/css">
+        body{}
+    <body>
+        <h1>Chend Blog</h1>
+        <h3>Don't touch me</h3>
+        {% block content %}
+        {% endblock %}
+    </body>
+</html>
